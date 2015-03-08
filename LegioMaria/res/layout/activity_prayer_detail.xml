@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+  <include layout="@layout/actionbar_layout" />
+<TextView
+    android:id="@+id/header"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:background="@drawable/custom_selector_button"
+    android:gravity="center"
+    android:maxLines="2000"
+    android:padding="5dp"
+    android:paddingLeft="30dp"
+    android:scrollbars="vertical"
+    android:text="TextView"
+    android:textColor="#ffffff"
+    android:textSize="15sp"
+    android:typeface="sans" />
+
+<TextView
+    android:id="@+id/prayer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#ffffff"
+    android:gravity="left"
+    android:maxLines="100"
+    android:text="TextView"
+    android:textColor="#000000"
+    android:textSize="17sp"
+    android:typeface="monospace" />
+
+</LinearLayout>

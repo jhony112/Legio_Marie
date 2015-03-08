@@ -1,0 +1,49 @@
+<com.jhony.legiomaria.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="#f8f9fe" >
+	<!--  Prayer Button -->
+    <Button
+        android:id="@+id/btn_prayer"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/praying_hands"
+        android:text="Prayer" />
+    
+	<!--  Facts Button -->
+    <Button
+        android:id="@+id/btn_facts"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/facts"
+        android:text="Friends" />
+    
+	<!--  Messages Button -->
+    <Button
+        android:id="@+id/btn_messages"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/messages"
+        android:text="Messages" />
+	
+    <!--  Places Button -->
+    <Button
+        android:id="@+id/btn_alarm"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/alarmclock"
+        android:text="Alarm" />
+
+    <!--  Events Button -->
+    <Button
+        android:id="@+id/btn_profile"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/about"
+        android:text="My Profile" />
+
+    <!--  Photos Button -->
+    <Button
+        android:id="@+id/btn_handbook"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/pg"
+        android:text="Handbook" />
+
+</com.jhony.legiomaria.DashboardLayout>

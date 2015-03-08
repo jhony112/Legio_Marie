@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Legio Marie</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Prayers</item>
+        <item>Events</item>
+        <item>Facts / More</item>
+        <item>My Pages</item>
+        <item>Handbook</item>
+    </string-array>
+    <string-array name="Fact_menu">
+        <item>Object of the Legion</item>
+        <item>Founder of the Legion</item>
+        <item>Government of the Legion</item>
+        <item>Membership of the Legion</item>
+        <item>Spirit of the Legion  </item>
+        <item>Events of the Legion</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/praying_hands</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/facts</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <string-array name="Prayer_menu">
+        <item>Opening Prayers</item>
+        <item>Rosary</item>
+        <item>Litany Of Our Blessed Mother Mary</item>
+        <item>The Catena Legionis</item>
+        <item>Concluding Prayers</item>
+        <item>Prayer to Saint Micheal The Archangel</item>
+        <item>The Divine Praises</item>
+        <item>The Little Crown of the Blessed Virgin Mary</item>
+        <item>Prayer For Beatification of Frank Duff</item>
+        <item>Prayer For Beatification of Alphonsus Lambe </item>
+        <item>Prayer For Beatification of Edel Queen </item>
+    </string-array>
+    <string-array name="Prayers">
+        <item>\b\t We make the Sign of the Cross saying.\t\n\b
+
+In the name of the Father \nand of the Son and of the Holy Spirit.\n
+
+Come, O Holy Spirit, fill the hearts of Your faithful, and enkindle in them the fire of Your love.\n
+V>. Send forth Your Spirit, O Lord, and they shall be created.\n
+R>. And You shall renew the face of the earth.\n
+\t\t*****LET US PRAY.*****\t\t\n
+ God our Father, pour out the gifts of Your Holy Spirit on the world.
+You sent the Spirit on Your Church to begin the teaching of the gospel: 
+now let the, Spirit continue to work in the world through the hearts of all who believe.
+Through Christ our Lord. Amen.\n
+V>. You, O Lord, will open my lips.\n
+R>. And my tongue shall announce Your praise.\n
+V>. Incline unto my aid, O God.\n
+R>. O Lord, make haste to help me.\n
+V>. Glory be to the Father, etc.\n
+R>. As it was in the beginning, etc.\n
+Then follow five decades of the Rosary.\n
+
+\t\t*****SALVE REGINA*****\t\t\n
+
+Hail, holy Queen, Mother of Mercy
+hail, our life, our sweetness and our hope.
+To you we cry, poor banished children of Eve,
+to you we send up our sighs, mourning and weeping in this valley of tears.
+Turn then, O most gracious advocate, your eyes of mercy towards us,
+and after this our exile, show us the blessed fruit of your womb, Jesus.
+O clement, \nO loving,\nO sweet Virgin Mary.\n
+V>. Pray for us, O holy Mother of God.\n
+R>. That we may be made worthy of the promises of Christ.\n
+
+
+\t\t*****LET US PRAY.*****\t\t\n
+
+O God, Whose only-begotten Son,by His life, death and resurrection,
+has purchased for us the rewards of eternal salvation;
+grant, we beseech You, that meditating upon these mysteries in the most holy 
+Rosary of the Blessed Virgin Mary,
+we may imitate what they contain, and obtain what they promise
+Through the same Christ our Lord. Amen.\n
+V>. Most Sacred Heart of Jesus\n
+R>. Have mercy on us.\n
+V>. Immaculate Heart of Mary\n
+R>. Pray for us.\n
+V>. St. Joseph\n
+R>. Pray for us.\n
+V>. St John the Evangelist\n
+R>. Pray for us.\n
+V>. St. Louis-Marie de Montfort\n
+R>. Pray for us.\n
+(We can conclude here by making the Sign of the Cross or continue on as time permits)\n
+In the name of the Father, etc.\n</item>
+        <item>\t\t*****OUR FATHER*****\t\t\n
+            
+V>.Our Father, who art in heaven, hallowed be Thy Name. Thy kingdom
+come. Thy will be done, on earth as it is in heaven.\n
+R>.Give us this day our daily bread, and forgive us our trespasses, as we
+forgive those who trespass against us and lead us not into temptation,
+but deliver us from evil. AMEN.\n
+\t\t*****HAIL MARY*****\t\t\n
+V>.Hail Mary, full of grace,the Lord is with thee.Blessed art thou among
+women,and blessed is the Fruit of Thy womb Jesus.\n
+R>.Holy Mary, Mother of God, pray for us, sinners, now and at the hour
+of our death. AMEN.\n (10 times per mysteries)\n
+\t\t*****GLORY BE*****\t\t\n
+V>.Glory be to the Father, and the Son and to the Holy Spirit.\n
+R>.As it was in the beginning, is now and ever shall be, world without end.
+AMEN.\n
+\t\t**MYSTERIES OF THE ROSARY**\t\n\t
+\t****JOYFUL****\t\n
+The Annunciation.\n
+The Visitation.\n
+The Birth of Jesus(Nativity).\n
+The Presentation.\n
+The Finding Jesus in the Temple.\n
+\t****LUMINOUS****\t\n
+The Baptism of Jesus.\n
+The Miracle at the Wedding at Cana.\n
+The Evangelization.\n
+The Transfiguration.\n
+The Institution of the Eucharist.\n
+\t****SORROWFUL****\t\n
+The Agony in the Garden.\n
+The Scourging at the Pillar.\n
+The Crowning with Thorns.\n
+The Carrying of the Cross.\n
+The Crucifixion and Death.\n
+\t****GLORIOUS****\t\n
+The Resurrection.\n
+The Ascension.\n
+The Descent of the Holy Spirit.\n
+The Assumption.\n
+The Coronation.\n</item>
+        <item>           \t\t\tLITANY OF THE VIRGIN MARYn 
+V>. Lord, have mercy on us.\n 
+R>. Christ, have mercy on us.\n 
+V>. Lord, have mercy on us. Christ hear us.\n 
+R>. Christ,  graciously hear us.\n 
+V>. God,  the Father of Heaven,\n 
+R>. Have mercy on us.\n 
+V>. God, the Son,  Redeemer of the world,\n 
+V>. God, the Holy Spirit,\n 
+V>. Holy Trinity,  One God,\n 
+V>. Holy  Mary,\n 
+R>. Pray For Us (till the end)\n 
+V>. Holy Mother of God,\n 
+V>. Holy Virgin of virgins,\n 
+V>. Mother of Christ,\n
+V>. Mother of divine grace,\n 
+V>. Mother most pure,\n 
+V>. Mother most chaste,\n 
+V>. Mother inviolate,\n 
+V>. Mother undefiled,\n 
+V>. Mother most amiable,\n 
+V>. Mother most admirable,\n 
+V>. Mother of good counsel,\n 
+V>. Mother of our Creator,\n 
+V>. Mother of our Savior,\n 
+V>. Virgin most prudent,\n 
+V>. Virgin most venerable,\n 
+V>. Virgin most renowned,\n 
+V>. Virgin most powerful,\n 
+V>. Virgin most merciful,\n 
+V>. Virgin most faithful,\n 
+V>. Mirror of justice,\n 
+V>. Seat of wisdom,\n 
+V>. Cause of our joy,\n 
+V>. Spiritual vessel,\n 
+V>. Vessel of honor,\n 
+V>. Singular vessel of devotion,\n 
+V>. Mystical rose,\n 
+V>. Tower of David,\n 
+V>. Tower of ivory,\n 
+V>. House of gold,\n 
+V>. Ark of the covenant,\n 
+V>. Gate of Heaven,\n 
+V>. Morning star,\n 
+V>. Health of the sick,\n 
+V>. Refuge of sinners,\n 
+V>. Comforter of the afflicted,\n 
+V>. Help of Christians,\n 
+V>. Queen of Angels,\n 
+V>. Queen of Patriarchs,\n 
+V>. Queen of Prophets,\n 
+V>. Queen of Apostles,\n 
+V>. Queen of Martyrs,\n 
+V>. Queen of Confessors,\n 
+V>. Queen of Virgins,\n 
+V>. Queen of all Saints,\n 
+V>. Queen conceived without Original Sin,\n 
+V>. Queen assumed into Heaven,\n 
+V>. Queen of the most holy rosary,\n 
+V>. Queen of Peace,\n 
+V>. Queen of the family,\n 
+V>. Lamb of God, who takes away the sins of the world, \n
+R>. Spare us O Lord.\n
+V>. Lamb of God, who takes away the sins of the world, \n
+R>. Graciously hear us O Lord.\n
+V>. Lamb of God, who takes away the sins of the world, \n
+R>. Have mercy on us.\n
+V>. Pray for us, O holy Mother of God. \n
+R>. That we may be made worthy of the promises of Christ.\n
+\t\t\tLet us pray:\n
+Pour forth, we beseech you O Lord, your grace into our hearts, that we, to whom the Incarnation of Christ, your Son was made
+known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection; through the same Christ our Lord.
+AMEN.</item>
+        <item>   \t\t V>.Antiphon. Who is she that comes forth as the morning 
+rising\n
+R>.Fair as the moon, bright as the sun, terrible as an army
+set in battle array?\n
+V>.My soul glorifies the Lord,\n
+R>.my spirit rejoices in God, my Saviour.\n
+V>.He looks on his servant in her lowliness;\n
+R>.henceforth all ages will call me blessed.\n
+V>.The Almighty works marvels for me.\n
+R>.Holy his name!\n
+V>.His mercy is from age to age,\n
+R>.on those who fear him.\n
+V>.He puts forth his arm in strength\n
+R>.and scatters the proud-hearted.\n
+V>.He casts the mighty from their thrones\n
+R>.and raises the lowly.\n
+V>.He fills the starving with good things,\n
+R>.sends the rich away empty.\n
+V>.He protects Israel, his servant,\n
+R>.remembering his mercy,\n
+V>.The mercy promised to our fathers,\n
+R>.to Abraham and his sons for ever.\n
+V>.Glory be to the Father, and to the Son, and to the Holy
+Spirit.\n
+R>.As it was in the beginning, is now, and ever shall be, world
+without end, Amen.\n
+V>.Antiphon. Who is she that comes forth as the morning
+rising, fair as the moon, bright as the sun, terrible as an army
+set in battle array?\n
+V/. O Mary, conceived without sin.\n
+R/. Pray for us who have recourse to you.\n
+\t\t\tLet us pray\n
+O Lord Jesus Christ, our mediator with the Father, you have
+been pleased to appoint the most Blessed Virgin, your Mother,
+to be our mother also, and our mediatrix with you, mercifully
+grant that whoever comes to you seeking your favours may
+rejoice to receive all of them through her. Amen.</item>
+        <item>   \t\t In the name of the Father \n
+We fly to your patronage, O Holy Mother of God; despise
+not our prayers in our necessities, but ever deliver us from all
+dangers, O glorious and blessed Virgin.\n
+V/. (Invocation appropriate to praesidium)\n
+ R/. Pray for us.\n
+
+V/. Mary Immaculate, Mediatrix of all Graces \n
+R/. Pray for us.\n
+V/. St. Michael and St. Gabriel\n
+ R/. Pray for us.\n
+V/. All you heavenly Powers, Mary’s Legion
+of Angels \n
+R/. Pray for us.\n
+V/. St. John the Baptist\n
+ R/. Pray for us.\n
+V/. Saints Peter and Paul\n
+ R/. Pray for us.\n
+The following is to be said in unison down to the first Amen;
+after that by the priest.\n
+\t\tConfer,\n O Lord, on us,
+Who serve beneath the standard of Mary,
+That fullness of faith in you and trust in her,
+To which it is given to conquer the world.
+Grant us a lively faith, animated by charity,
+Which will enable us to perform all our actions
+From the motive of pure love of you,
+And ever to see you and serve you in our neighbour;
+A faith, firm and immovable as a rock,
+Through which we shall rest tranquil and steadfast
+Amid the crosses, toils and disappointments of life;
+A courageous faith which will inspire us
+To undertake and carry out without hesitation
+Great things for your glory and for the salvation of souls;
+A faith which will be our Legion’s Pillar of Fire
+To lead us forth united 
+To kindle everywhere the fires of divine love
+To enlighten those who are in darkness and in the shadow
+of death
+To inflame those who are lukewarm
+To bring back life to those who are dead in sin;
+And which will guide our own feet in the way of peace;
+
+So that  the battle of life over 
+Our Legion may reassemble,
+Without the loss of any one,
+In the kingdom of your love and glory. Amen.
+May the souls of our departed legionaries
+And the souls of all the faithful departed
+Through the mercy of God rest in peace. Amen.\n
+In the name of the Father\n</item>
+        <item>\t
+Saint Michael the Archangel, defend us in battle. Be our safeguard against the wickedness and snares of the devil. May God rebuke him, we
+humbly pray; and do thou, O Prince of the Heavenly Host, by the Power of God, cast into hell satan and all the evil spirits, who prowl about the
+world seeking the ruin of souls. AMEN.</item>
+        <item>\t
+Blessed be God.\n
+Blessed be His Holy Name.\n
+Blessed be Jesus Christ, True God and True Man.\n
+Blessed be the Name of Jesus.\n
+Blessed be His Most Sacred Heart.\n
+Blessed be His Most Precious Blood.\n
+Blessed be Jesus in the Most Holy Sacrament of the Altar.\n
+Blessed be the Holy Spirit, the Paraclete.\n
+Blessed be the Great Mother of God, Mary Most Holy.\n
+Blessed be her Holy and Immaculate Conception.\n
+Blessed be her Glorious Assumption.\n
+Blessed be the Name of Mary, Virgin and Mother.\n
+Blessed be Saint Joseph, her most Chaste Spouse.\n
+Blessed be God in His Angels and in His Saints.\n
+May the Heart of Jesus, in the Most Blessed Sacrament, be praised, adored and loved with grateful affection, at every moment, in all the
+tabernacles of the world, even to the end of time.\n AMEN.</item>
+        <item>           \tIntroductory Prayer\n
+
+Come Holy Spirit, fill the hearts of Thy faithful and enkindle winthin them the fire of Thy love\n
+V. Send forth Thy Spirit and they shall be created.\n
+R. And Thou shalt renew the face of the earth.\n
+Let us pray.\n
+O God, Who by the light of the Holy Spirit dost instruct the hearts of\n
+the faithful, grant us by this same Spirit to relish what is right and\n
+ever to rejoice in His consolation, through Jesus Christ, our Lord. Amen.\n
+
+\t\tI. Crown of Excellence\n
+
+(To honor the Divine Maternity of the Blessed Virgin, her ineffable Virginity,
+her purity without stain and her innumerable virtues.)\n
+
+\t1. Our Father, Hail Mary.\n
+Blessed art thou, O Virgin Mary, who didst bear the Lord, the Creator of the world;
+thou didst give birth to Him Who made thee, and remainest a Virgin forever.
+Rejoice, O Virgin Mary; Rejoice a thousand times!\n
+
+\t2. Hail Mary.\n
+O holy and immaculate Virgin, I know not with what praise to extol thee, 
+since thou didst bear in thy womb the very One Whom the Heavens cannot contain.
+Rejoice, O Virgin Mary; Rejoice a thousand times!\n
+
+\t3. Hail Mary.\n
+Thou are all fair, O Virgin Mary, and there is no stain in thee.
+Rejoice, O Virgin Maryd; Rejoice a thousand times!\n
+
+\t4. Hail Mary.
+Thy virtues, O Virgin, surpass the stars in number.
+Rejoice, O Virgin Mary; Rejoice a thousand times!
+Glory be to the Father.\n
+
+\tII. Crown of Power\n
+
+(To honor the royalty of the Blessed Virgin, her magnificence, her universal mediation and the strength of her rule.)
+\n
+\t5. Our Father, Hail Mary.\n
+Glory be to thee, O Empress of the world! Bring us with thee to the joys of Heaven.
+Rejoice, O Virgin Maryd; Rejoice a thousand times!\n
+6. Hail Mary.\n
+Glory be to thee, O treasure house of the Lord\'s graces! Grant us a share in thy riches.
+Rejoice, O Virgin Mary; Rejoice a thousand times!\n
+
+\t7. Hail Mary.
+Glory be to thee, O Mediatrix between God and man! Through thee may the Almighty be favorable to us.
+Rejoice, O Virgin Mary; Rejoice a thousand times!\n
+
+\t8. Glory be to thee who destroyest heresies and crushest demons!
+Be thou our loving guide.
+Rejoice, O Virgin Mary; Rejoice a thousand times!\n
+Glory be to the Father.\n
+
+\tGlory be to the Father.\n
+
+\tIII. Crown of Goodness\n
+
+(To honor the mercy of the Blessed Virgin toward sinners, the poor, the just and the dying.)\n
+
+\t9. Our Father, Hail Mary.\n
+
+Glory be to thee, O refuge of sinners! Intercede for us with God.\n
+Rejoice, O Virgin Mary; Rejoice a thousand times!\n
+
+\t10. Hail Mary.\n
+Glory be to thee, O Mother of orphans! Render the Almighty favorable to us.\n
+Rejoice, O Virgin Mary; Rejoice a thousand times!
+
+\t11. Hail Mary.\n
+Glory be to thee, O joy of the just! Lead us with thee to the joys of Heaven.\n
+Rejoice, O Virgin Mary; Rejoice a thousand times!\n
+
+\t12. Hail Mary.\n
+Glory be to thee who are ever ready to assist us in life and death! Lead us with thee to the kingdom of Heaven!\n
+Rejoice, O Virgin Mary; Rejoice a thousand times!\n
+Glory be to the Father.\n
+
+\tConcluding Prayer\n
+
+\tLet Us Pray.\n
+
+Hail, Mary, Daughter of God the Father\n
+Hail, Mary, Mother of God the Son\n
+Hail, Mary, Spouse of the Holy Ghost\n
+Hail, Mary, Temple of the most Holy Trinity\n
+Hail, Mary, my Mistress, my treasure, my joy, Queen of my heart; my Mother, 
+my life, my sweetness, my dearest hope 
+yea, my heart and my soul! 
+I am all thine and all that I have is Thine,
+O Virgin blessed above all things!
+ Let thy soul be in me to magnify the Lord;
+ let thy spirit be in me to rejoice in God.
+ Set thyself, O faithful Virgin,
+  as a seal upon my heart,
+  that in thee and through thee I may be found faithful to God. 
+  Receive me, O gracious Virgin,
+  among those whom thou lovest and teachest,
+  whom thou leadest, nourishest and protectest as thy children. 
+  Grant that for love of thee I may despise all 
+  earthly consolations and ever cling to those of Heaven until,
+   through thee, His faithful spouse,
+ Jesus Christ thy Son be formed in me for the glory of the Father.\n</item>
+        <item>\t\t \tGod our Father,
+
+You inspired your servant Frank Duff
+ with a profound insight into the mystery 
+ of your Church, the Body of Christ, 
+ and of the place of Mary the Mother of Jesus in this mystery.
+In his immense desire to share this insight with others 
+and in filial dependence on Mary he formed her Legion 
+to be a sign of her maternal love for the world and a means 
+of enlisting all her children in the Church\'s evangelizing work.
+We thank you Father for the graces conferred 
+on him and for the benefits accruing to the Church 
+from his courageous and shining faith.
+With confidence we beg you that through his 
+intercession you grant the petition we lay before you.(Say your Petitions)
+We ask too that if it be in accordance with your will, 
+the holiness of his life may be acknowledged by
+the Church for the glory of your Name, through Christ Our Lord,\n Amen.</item>
+        <item>\t \t \tGod, who by your infinite mercy
+inflamed the heart of your servant,
+Alphonsus Lambe with an ardent love for
+you and for Mary, our Mother;a love which
+revealed itself in a life of intense labour,
+prayer and sacrifice for the salvation of
+souls, grant, if it be your will,that we may
+obtain, by his intercession, what we cannot
+obtain by our own merits. We ask this
+through Jesus Christ, Our Lord.\n Amen</item>
+        <item>    \t \t \tEternal Father\n, I thank you for the grace you gave
+to your servant, Edel Quinn, of striving to live
+always in the joy of your presence, for the radiant
+charity infused into her heart by your Holy Spirit,
+and for the strength she drew from the Bread of
+Life to labour until death for the glory of your
+name, in loving dependence on Mary, Mother of the Church.
+Confident, O Merciful Father, that her life was
+pleasing to you,I beg you to grant me, through her
+intercession, the special favour I now implore.(Say your Petitions),
+and to make known by miracles the glory she
+enjoys in Heaven, so that she may be glorified also
+by your Church on earth, through Christ Our Lord.\n
+Amen</item>
+    </string-array>
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_content_fragment">ContentFragment</string>
+    <string name="title_activity_test_frag">TestFrag</string>
+
+    <color name="dark_grey">#696969</color>
+
+    <string name="Open_Book_1">Open Book 1</string>
+    <string name="Open_Book_2">Open Book 2</string>
+    <string name="Enable_Parallel_Texts">Enable Parallel Texts</string>
+    <string name="Toggle_Sync_Views">Toggle Sync Views</string>
+    <string name="Reset_Sync_Views">Reset Sync Views</string>
+    <string name="Show_Metadata">Show Metadata</string>
+    <string name="Refresh">Refresh</string>
+    <string name="From_Book_1">From Book 1</string>
+    <string name="From_Book_2">From Book 2</string>
+    <string name="Sync_Book_1_with_Book_2">Sync Book 1 with Book 2</string>
+    <string name="Sync_Book_2_with_Book_1">Sync Book 2 with Book 1</string>
+    <string name="Book_1">Book 1</string>
+    <string name="Book_2">Book 2</string>
+    <string name="bookOpen">bookOpen</string>
+    <string name="Table_of_Contents">Table of Contents</string>
+    <string name="Change_Size">Change Panel Size</string>
+    <string name="error_LoadPage">Can not load the page</string>
+    <string name="error_LoadBook">Cannot load the book</string>
+    <string name="error_onlyOneBookOpen">Only one book open!</string>
+    <string name="error_cannotSynchronize">Cannot synchronize!</string>
+    <string name="error_metadataNotFound">Metadata not found!</string>
+    <string name="error_tocNotFound">Table of Contents not Found!</string>
+    <string name="error_cannotChangeSizes">Can not change sizes!</string>
+    <string name="url">url</string>
+    <string name="bpath">bpath</string>
+    <string name="invisible">invisible</string>
+    <string name="second">second</string>
+    <string name="time">time</string>
+    <string name="error_cannotTurnPage">Cannot turn Page!</string>
+    <string name="tome">tome</string>
+    <string name="lang">lang</string>
+    <string name="error_noOtherLanguages">No other languages!</string>
+    <string name="state">state</string>
+    <string name="error_cannotLoadState">Cannot load the application/book state</string>
+    <string name="textOrHTML">text/html</string>
+    <string name="sync">sync</string>
+    <string name="page">page</string>
+    <string name="CurrentPageBook">CurrentPageBook</string>
+    <string name="LanguageBook">LanguageBook</string>
+    <string name="pathBook">pathBook</string>
+    <string name="error_CannotCloseStream">Cannot close stream!</string>
+    <string name="Book_Stream">Book Stream</string>
+    <string name="nameEpub">nameEpub</string>
+    <string name="error_goToPage">goToPage error:</string>
+    <string name="full_path">full-path</string>
+    <string name="zip">.zip</string>
+    <string name="htmlBodyTableOpen">&lt;html&gt;&lt;body&gt;&lt;table&gt;</string>
+    <string name="titlesMeta">&lt;tr&gt;&lt;td&gt;Titles:&lt;/td&gt;</string>
+    <string name="authorsMeta">&lt;tr&gt;&lt;td&gt;Authors:&lt;/td&gt;</string>
+    <string name="contributorsMeta">&lt;tr&gt;&lt;td&gt;Contributors:&lt;/td&gt;</string>
+    <string name="languageMeta">&lt;tr&gt;&lt;td&gt;Language:&lt;/td&gt;&lt;td&gt;</string>
+    <string name="publishersMeta">&lt;tr&gt;&lt;td&gt;Publishers:&lt;/td&gt;</string>
+    <string name="typesMeta">&lt;tr&gt;&lt;td&gt;Types:&lt;/td&gt;</string>
+    <string name="descriptionsMeta">&lt;tr&gt;&lt;td&gt;Descriptions:&lt;/td&gt;</string>
+    <string name="rightsMeta">&lt;tr&gt;&lt;td&gt;Rights:&lt;/td&gt;</string>
+    <string name="tablebodyhtmlClose">&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string name="tocReference">&lt;tr&gt;&lt;td&gt;Table of Contents:&lt;/td&gt;</string>
+    <string name="change_Font">Change Font</string>
+    <string name="change_Font_Color">Font Color:</string>
+    <string name="changeStyle">Change Style</string>
+    <string name="blue_rgb">#0000ff</string>
+    <string name="red_rgb">#ff0000</string>
+    <string name="green_rgb">#00ff00</string>
+    <string name="black_rgb">#000000</string>
+    <string name="white_rgb">#ffffff</string>
+    <string name="error_CannotChangeStyle">Cannot Change Style!</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="SetSizeTitle">Upper Panel Size:</string>
+    <string name="LanguageChooserTitle">Choose two languages:</string>
+    <string name="parallelTextBool">parallelTextBool</string>
+
+    <string-array name="ColorFont">
+        <item>Black</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>White</item>
+    </string-array>
+
+    <string name="ChangeBackgroundColor">Background Color:</string>
+
+    <string-array name="ColorBack">
+        <item>White</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Black</item>
+    </string-array>
+
+    <string name="syncScroll">Sync. Scroll</string>
+    <string name="ChangeFont">Font:</string>
+
+    <string-array name="FontStyle">
+        <item>Sans Serif</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+
+    <string name="Arial">Sans Serif</string>
+    <string name="Serif">Serif</string>
+    <string name="Monospace">Monospace</string>
+    <string name="FontSize">Font Size:</string>
+    <string name="LineHeight">Line Height:</string>
+    <string name="TextAlign">Alignment:</string>
+
+    <string-array name="testAlignOption">
+        <item>Left</item>
+        <item>Center</item>
+        <item>Right</item>
+        <item>Justify</item>
+    </string-array>
+
+    <string name="Left_Align">Left</string>
+    <string name="Center_Align">Center</string>
+    <string name="Right_Align">Right</string>
+    <string name="DefaultSettings">Default</string>
+    <string name="px">px</string>
+    <string name="open">Open...</string>
+    <string name="Margin">Margin(px):</string>
+
+    <string-array name="FontSize">
+        <item>100%</item>
+        <item>125%</item>
+        <item>150%</item>
+        <item>175%</item>
+        <item>200%</item>
+        <item>90%</item>
+    </string-array>
+    <string-array name="LineHeight">
+        <item>1em</item>
+        <item>1.25em</item>
+        <item>1.5em</item>
+        <item>1.75em</item>
+        <item>2em</item>
+        <item>0.9em</item>
+    </string-array>
+
+    <string name="Justify">Justify</string>
+
+    <string-array name="Margin">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+
+    <string name="title_activity_split_panel">SplitPanel</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_book_view">BookView</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_tocview">TOCView</string>
+    <string name="title_activity_data_view">DataView</string>
+    <string name="ViewType">ViewType</string>
+    <string name="title_activity_audio_view">AudioView</string>
+    <string name="audio">Extract Audio</string>
+    <string name="error_openaudiofile">Cannot open audio file</string>
+    <string name="play">&gt;</string>
+    <string name="pause">| |</string>
+    <string name="rew">&lt;&lt;</string>
+    <string name="exAudio">exAudio</string>
+    <string name="no_audio">Can\'t find any audio file</string>
+    <string name="title_activity_prayer_detail">PrayerDetail</string>
+
+</resources>
